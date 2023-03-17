@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seletores personalizados</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 id="principal">Criando sites com HTML E CSS</h1>
+    <H1 class="aprendendo">Aprendendo HTML</H1>
+
+    <H2>HTML básico</H2>
+    <p><span class="basico">Lorem ipsum dolor sit amet consectetur adipisicing elit.</span> Id aliquam possimus voluptas molestiae soluta nam consectetur. Cupiditate nesciunt culpa commodi saepe provident? At eveniet sequi nemo similique aliquam ad repellendus.</p>
+    <h2>HTML intermediário</h2>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui ipsa, vel minus libero labore voluptates incidunt est nemo, nostrum iste unde repudiandae impedit velit odio quia repellat, voluptatibus perferendis inventore.</p>
+    <h2>HTML avançado</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus officiis hic impedit possimus, officia, sit enim cupiditate blanditiis inventore soluta, quam libero illo. Quod suscipit delectus, assumenda tempora ipsam quos?</p>
+
+    <h1 class="aprendendo">Aprendendo CSS</h1>
+
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui error veritatis ipsa reprehenderit! Placeat adipisci, nisi, tenetur similique optio, hic in iure consequuntur ullam unde facilis ea laborum architecto voluptate!</p>
+    <h2>CSS intermediário</h2>
+     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, exercitationem tempora velit veniam expedita nisi quasi nostrum vitae minus totam rem amet vel at, recusandae tenetur ipsa quis ea assumenda.</p>
+     <h2>CSS Avançado</h2>
+     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem, ad eum? Enim architecto error doloremque, magni in, nemo fugit laboriosam tempore odit recusandae eius cum iusto eos? Fugit, quae aperiam.</p>
+</body>
+</html>
