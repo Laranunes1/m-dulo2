@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+body{
+    background-color: #74e2ab;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    color:#125827;
+}
+
+h1#principal {
+    background-color: rgb(117, 0, 128);
+    text-align: center;
+    color:rgb(255, 255, 255)
+    
+}
+h2{
+    color:rgb(116, 23, 121)
+}
+
+p{
+    color:rgb(50, 10, 66)
+}
+
+.aprendendo{
+    color: rgb(241, 50, 178)
+}
+
+.basico{
+    color: orange
+}
